@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ARRANQUE_PARO_MOTOR.ino",
+    "port": "COM5"
+}

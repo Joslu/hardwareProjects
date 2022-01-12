@@ -1,0 +1,5 @@
+{
+    "sketch": "Sensor_DHT.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM5"
+}

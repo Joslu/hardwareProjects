@@ -1,0 +1,6 @@
+{
+    "sketch": "Motor_a_pasos_unipolar\\Motor_a_pasos_unipolar.ino",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "port": "COM7"
+}
